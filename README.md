@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MananChhabhaya
-- 👀 I’m interested in Game design and Game development
-- 🌱 I’m currently learning animation
-- 💞️ I’m looking to collaborate on animation in blender
+- 👀 I’m interested in Photography and Robotics.
+- 🌱 I’m currently on the journey to get into Robotics.
+- 💞️ I’m looking to collaborate on code developers who are innovative
 - 📫 My Gmail is mananchhabhaya@gmail.com
 
 <!---
